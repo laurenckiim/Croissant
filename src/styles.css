@@ -1,0 +1,53 @@
+body {
+  background-color: #fdfdfd;
+}
+
+p {
+  color: #474b4e;
+  text-align: center;
+  margin: 40px;
+}
+
+.header {
+  color: #605c6b;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+}
+
+.pastry {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  border: 0.5px solid #a09daa;
+  border-radius: 20px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.contact-text {
+  color: #474b4e;
+  font-size: 25px;
+  text-align: center;
+  margin: 40px;
+}
+
+.contact-link {
+  color: #474b4e;
+  text-decoration: none;
+}
+
+.contact-link:hover {
+  color: #787486;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.quote {
+  color: #605c6b;
+  font-size: 15px;
+  font-style: italic;
+  text-align: center;
+  margin: 40px;
+}
