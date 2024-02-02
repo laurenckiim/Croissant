@@ -1,11 +1,17 @@
-body {
-  background-color: #cfc8b5;
+.background {
+  background: #cfc8b5;
+  height: 100vh;
+  overflow: auto;
 }
 
 p {
   color: #474b4e;
   text-align: center;
   margin: 40px;
+}
+
+.bg-color {
+  background: #fdfdfd;
 }
 
 .header {
